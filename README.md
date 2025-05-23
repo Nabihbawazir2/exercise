@@ -1,5 +1,8 @@
-# Exercise
+# Portfolio
 This table summarizes key AI skill areas and related project experiences.
+
+# Identity
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nabihbawazir/)
 
 | Skill Area                      | Project Case                                          | Goal                                                                                       | Key Learnings                                                                                     |
 |---------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
