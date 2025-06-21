@@ -2,6 +2,11 @@
 # Identity
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nabihbawazir/)
 
+**22. GitHub Profile Analyzer**
+
+- **Student's Task:** Use the GitHub API to fetch data about their own repositories (or a famous open-source project). Use Pandas to analyze the number of commits, stars, and forks.
+- **Trainer's Task:** Assist in creating a profile page that showcases these stats in a more visually engaging way than the standard GitHub interface.
+
 # Portfolio
 
 | Skill Area                      | Project Case                                          | Goal                                                                                       | Key Learnings                                                                                     |
